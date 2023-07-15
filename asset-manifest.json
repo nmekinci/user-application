@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/user-application/static/css/main.4814cc2e.css",
+    "main.js": "/user-application/static/js/main.ba3503bf.js",
+    "static/media/cw.svg": "/user-application/static/media/cw.22310668293c2cb8cc2eb7a4fd1a5f19.svg",
+    "static/media/map.svg": "/user-application/static/media/map.8e5a2a587d26cff3ce6d9abc58da8f5f.svg",
+    "static/media/growing-up-woman.svg": "/user-application/static/media/growing-up-woman.a158584281f99f0d709c59ea4dee167e.svg",
+    "static/media/woman.svg": "/user-application/static/media/woman.05242306d420ecf43e9f6e677b86df07.svg",
+    "static/media/mail.svg": "/user-application/static/media/mail.42e0750e7e30127034e5ab11cf316365.svg",
+    "static/media/padlock.svg": "/user-application/static/media/padlock.8d2c33d2e558cdfc835d35b8ace79550.svg",
+    "static/media/phone.svg": "/user-application/static/media/phone.d017e1ae418c694ba9148c0a9001609c.svg",
+    "index.html": "/user-application/index.html",
+    "main.4814cc2e.css.map": "/user-application/static/css/main.4814cc2e.css.map",
+    "main.ba3503bf.js.map": "/user-application/static/js/main.ba3503bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4814cc2e.css",
+    "static/js/main.ba3503bf.js"
+  ]
+}
